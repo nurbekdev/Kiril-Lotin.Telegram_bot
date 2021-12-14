@@ -9,7 +9,7 @@ from transliterate import to_cyrillic, to_latin
 import telebot
 from telebot import types
 
-TOKEN = "5072241577:AAFKfC9McClYcB-x8NO_87NQ12GuC1LmYik"
+TOKEN = "Sizning Token"
 bot = telebot.TeleBot(TOKEN, parse_mode=None)
 
 
